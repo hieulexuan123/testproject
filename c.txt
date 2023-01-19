@@ -1,7 +1,6 @@
 Noi dung c
 
-<<<<<<< HEAD
 Cap nhat boi Mac
-=======
 Cap nhat boi window
->>>>>>> origin/master
+
+dsfasf
